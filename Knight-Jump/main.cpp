@@ -1,3 +1,8 @@
+/*
+    Summary:
+    1) Use dp table to get mininum steps to reach each spot on the board
+    2) Use Breadth-First-Search starting at knight position
+*/
 #include<iostream>
 #include<climits>
 #include<vector>
